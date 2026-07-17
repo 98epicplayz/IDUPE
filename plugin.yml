@@ -1,0 +1,11 @@
+name: DonutShop
+version: 1.0
+main: me.donut.shop.DonutShop
+api-version: '1.21'
+
+depend:
+  - Vault
+
+commands:
+  shop:
+    description: Opens the Donut SMP shop
